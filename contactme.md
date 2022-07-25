@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pamulapati Satish Chandra GitHub Handle(@Sati01)
 - 👀 I’m interested in Data Science,Machine Learning
 - 🌱 I’m currently learning Data Analytics,Deep Learning
-- 💞️ I’m looking to collaborate on Projects,Research Publications
+- 💞️ I’m looking to collaborate on Projects,Research Publications,Open Source Contribution
 - 📫 You Can reach me on my Mail:satishchandra@duck.com
